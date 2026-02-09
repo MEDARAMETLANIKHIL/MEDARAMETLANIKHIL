@@ -16,8 +16,8 @@
 
 **Product Manager** with **4+ years** of experience building **AI Agents and GenAI solutions**, specializing in scalable **Microsoft ecosystem** integrations. I've delivered high-impact AI products serving **40,000+ users** and driving **millions in operational value** through automation and enhanced customer experiences.
 
-🎓 Currently pursuing **MS in Product Management at Carnegie Mellon University** | **GPA: 3.9/4.0** | **Merit Scholarship Recipient**  
-📅 **Graduating December 2025** | **Available for full-time roles starting January 2026**
+🎓 **MS in Product Management at Carnegie Mellon University** | **GPA: 3.9/4.0** | **Merit Scholarship Recipient**  
+📅 **Available for full-time roles starting January 2026**
 
 ---
 
@@ -26,29 +26,11 @@
 #### **Microsoft** | 🔷 Product Manager Intern, M365 Core COSMIC
 *May 2025 – Aug 2025 | Redmond, WA*
 
-- 🤖 Built AI agents using **Microsoft Semantic Kernel** on **Azure AI Foundry** that automated service management
-- 📉 **Reduced collateral generation time by 85%** and **lifted CSAT by 15 points**
-- 🎯 Deployed agents to pilot groups, **reducing support tickets by 64%** across M365 Core platform
-- 📊 Analyzed **15K+ reported issues** to create PRDs, **reducing support effort by 40%**
-- 🔐 Integrated RBAC-compliant agents into enterprise service management platform
-
 #### **PNC Bank** | 🏦 Product Manager
 *Aug 2025 – Dec 2025 | Pittsburgh, PA*
 
-- 💰 Developed AI agents that **added $6M in annualized operational value**
-- 🤝 **Reduced human-agent workload by 35%** through self-service automation
-- 📞 Analyzed **4M+ call data** to build multi-agent model
-- 📈 **Improved self-service satisfaction by 36%** across mobile and voice channels
-
 #### **NielsenIQ** | 📊 Product Manager
 *Jan 2023 – Dec 2024 | Chennai, India*
-
-- 🎯 Owned end-to-end lifecycle for GenAI-powered SaaS analytics products serving **1,000+ enterprise clients** and **40,000+ users**
-- 🚀 Launched **AskArthur** (GenAI assistant) and **Smart Select** (NLP search)
-- ⚡ **Reduced analysis effort by 70%**, **cut data lookup time by 60%**, **increased feature adoption by 25%**
-- 👥 Led cross-functional team of **12+ engineers, designers, and data scientists**
-- 📊 **Improved adoption by 40%** and **raised CSAT by 15 points** through user-centric redesign
-
 ---
 
 ### 🛠️ Technical Arsenal
@@ -67,56 +49,6 @@
 ✅ Azure Fundamentals
 
 ---
-
-### 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🤖 MultiLLM Autogen</h4>
-      <p>Multi-agent AI system using AutoGen framework simulating a complete product development company. Five specialized agents collaborate to build professional portfolio websites.</p>
-      <p><strong>Tech:</strong> Python, Microsoft AutoGen, OpenAI API</p>
-      <p><strong>Impact:</strong> 95% time reduction, $500-$3K cost savings</p>
-    </td>
-    <td width="50%">
-      <h4>📊 Consumer Insights AI Agent</h4>
-      <p>Automated consumer profiling & psychographic segmentation for market research. Analyzes reviews, sentiment, and behavioral data.</p>
-      <p><strong>Tech:</strong> Python, NLP, AutoGen, Sentiment Analysis</p>
-      <p><strong>Status:</strong> In Development 🚧</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🎯 AI Audience Segmentation</h4>
-      <p>Behavioral clustering and targeting optimization engine for marketing activation and campaign planning.</p>
-      <p><strong>Tech:</strong> Python, ML Clustering, Data Visualization</p>
-      <p><strong>Status:</strong> Planned 📋</p>
-    </td>
-    <td width="50%">
-      <h4>🏦 PNC Omnichannel Banking AI</h4>
-      <p>Multi-agent system for automated customer service workflows. Capstone project transforming banking customer experience.</p>
-      <p><strong>Tech:</strong> AI Agents, Voice/Mobile Integration</p>
-      <p><strong>Impact:</strong> $6M operational value, 36% satisfaction ↑</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 Impact Metrics Dashboard
-
-<div align="center">
-
-| 💰 Business Value | 🚀 Efficiency Gains | 👥 User Impact | 📊 Quality Improvements |
-|:---:|:---:|:---:|:---:|
-| **$6M+** operational value | **85%** time reduction | **40K+** users served | **15 pts** CSAT increase |
-| ROI-driven products | **64%** fewer support tickets | **1K+** enterprise clients | **36%** satisfaction ↑ |
-| Data-backed decisions | **70%** faster analysis | **4M+** data points analyzed | **40%** adoption increase |
-
-</div>
-
----
-
 ### 🎓 Education
 
 **🏛️ Carnegie Mellon University** | Pittsburgh, PA  
@@ -126,7 +58,7 @@
 
 **🏛️ VIT University** | Vellore, India  
 📚 **Bachelor of Technology in Computer Science and Engineering**  
-📅 **December 2022**
+📅 **December 2020**
 
 ---
 
