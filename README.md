@@ -31,6 +31,7 @@
 
 #### **NielsenIQ** | 📊 Product Manager
 *Jan 2023 – Dec 2024 | Chennai, India*
+
 ---
 
 ### 🛠️ Technical Arsenal
@@ -126,41 +127,3 @@
 
 </div>
 
----
-
-### 🎯 Current Status
-
-<div align="center">
-
-## 🚀 **Actively Seeking AI Product Manager Roles**
-### **Starting January 2026**
-
-**Focus Areas:** AI Agents • GenAI Products • Microsoft Ecosystem • Consumer Insights • Enterprise SaaS
-
-📍 **Open to relocation nationwide** | 🌎 **Authorized to work in the US**
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MEDARAMETLANIKHIL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEDARAMETLANIKHIL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MEDARAMETLANIKHIL&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Building AI products that deliver measurable business impact and exceptional user experiences"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=MEDARAMETLANIKHIL&color=58A6FF&style=for-the-badge)
-
-</div>
